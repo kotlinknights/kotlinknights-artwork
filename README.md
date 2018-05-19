@@ -7,6 +7,7 @@ This repository contains various artwork files for the Kotlin Knights study grou
 | Artwork | Description | Directory |
 | --------|-------------|------|
 | Logo    | Logo for Kotlin Knighs | `/logo` |
+| Avatar | Avatar for social sites | `/avatar` |
 
 
 
